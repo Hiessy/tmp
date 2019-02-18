@@ -1,5 +1,5 @@
 
-# <img src="src/docs/asciidoc/images/icon.png" width="80" height="80"> Memmas Project
+# <img src="src/docs/asciidocs/images/icon.png" width="80" height="80"> Memmas Project
 
 This project intends to be a micro service running on the Lagom framework. This project contains the microservice implementation neceseary to send messages between two actors with in the system. Currently this is in a proof-of-concept state.
 
